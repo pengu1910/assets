@@ -1,0 +1,8 @@
+{
+  "name": "Pengu Token",
+  "symbol": "PENGU",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x11C3082E97646E788C4..."  // Ghi đầy đủ contract thật tại đây
+}
